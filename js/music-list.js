@@ -35,5 +35,10 @@ let allMusic = [
     artist: "NCS Release",
     img: "music-6",
     src: "music-6"
-  },
+  },{
+    name:"Light Switch",
+    artist:"Charlie Puth",
+    img:"music-9",
+    src:'music-9'
+  }
 ];
