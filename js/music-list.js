@@ -36,4 +36,10 @@ let allMusic = [
     img: "music-6",
     src: "music-6"
   },
+  {
+    name: "Sia  Unstoppable Lyrics",
+    artist: "Audio Library",
+    img: "music-7",
+    src: "music-7"
+  },
 ];
