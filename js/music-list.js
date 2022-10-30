@@ -36,4 +36,16 @@ let allMusic = [
     img: "music-6",
     src: "music-6"
   },
+  {
+    name: "Let the Mystery Unfold",
+    artist: "geoffharvey",
+    img: "music-7",
+    src: "music-7"
+  },
+  {
+    name: "Halloween Time",
+    artist: "NickyPe",
+    img: "music-8",
+    src: "music-8"
+  }
 ];
