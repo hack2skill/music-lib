@@ -36,4 +36,10 @@ let allMusic = [
     img: "music-6",
     src: "music-6"
   },
+  {
+    name: "Save Your Tears - Weeknd",
+    artist: "Weeknd",
+    img: "music-7",
+    src: "music-7"
+  },
 ];
