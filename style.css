@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
-  margin: 0;
+  margin: z0;
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
@@ -10,20 +10,22 @@
   margin: 0;
 }
 :root{
-  --pink: #ff74a4;
-  --violet: #9f6ea3;
+  --pink: #d18d0f;
+  --violet: #22cb0f;
   --lightblack: #515C6F;
   --white: #ffffff;
   --darkwhite: #cecaca;
-  --pinkshadow: #ffcbdd;
-  --lightbshadow: rgba(0,0,0,0.15);
+  --pinkshadow: #4522d0;
+  --lightbshadow: rgba(48, 216, 18, 0.15);
 }
 body{
+    
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
   background: linear-gradient(var(--pink) 0%, var(--violet) 100%);
+  background-image:url('https://targetbay.com/wp-content/uploads/2020/09/Best-Practices-for-Halloween-Email-Newsletters.gif');
 }
 .wrapper{
   width: 380px;
