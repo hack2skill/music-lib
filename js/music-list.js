@@ -47,6 +47,12 @@ let allMusic = [
     src: "music-6"
   },
   {
+    name: "Despacito",
+    artist: "Luis Fonsi",
+    img: "music-6",
+    src: "music-7"
+  },
+  {
     name: "Sia  Unstoppable Lyrics",
     artist: "Audio Library",
     img: "sia-unstoppable",
