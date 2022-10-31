@@ -37,6 +37,12 @@ let allMusic = [
     src: "music-6"
   },
   {
+    name:"Light Switch",
+    artist:"Charlie Puth",
+    img:"music-9",
+    src:'music-9'
+  },
+  {
     name: "Butter",
     artist: "BTS",
     img: "music jpg",
