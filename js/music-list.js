@@ -61,7 +61,19 @@ let allMusic = [
   {
     name: "Save Your Tears - Weeknd",
     artist: "Weeknd",
+    img: "save-your-tears",
+    src: "save-your-tears"
+  },
+  {
+    name: "Let the Mystery Unfold",
+    artist: "geoffharvey",
     img: "music-7",
     src: "music-7"
   },
+  {
+    name: "Halloween Time",
+    artist: "NickyPe",
+    img: "daboij",
+    src: "daboij"
+  }
 ];
