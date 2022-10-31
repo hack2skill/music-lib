@@ -35,10 +35,22 @@ let allMusic = [
     artist: "NCS Release",
     img: "music-6",
     src: "music-6"
-  },{
+  },
+  {
     name:"Light Switch",
     artist:"Charlie Puth",
     img:"music-9",
     src:'music-9'
-  }
+  },
+  {
+    name: "Butter",
+    artist: "BTS",
+    img: "music jpg",
+    src: "music track"
+  },
+    name: "Save Your Tears - Weeknd",
+    artist: "Weeknd",
+    img: "music-7",
+    src: "music-7"
+  },
 ];
