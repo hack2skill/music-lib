@@ -49,8 +49,8 @@ let allMusic = [
   {
     name: "Sia  Unstoppable Lyrics",
     artist: "Audio Library",
-    img: "music-7",
-    src: "music-7"
+    img: "sia-unstoppable",
+    src: "sia-unstoppable"
   },
   {
     name:"Light Switch",
