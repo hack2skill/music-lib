@@ -47,6 +47,12 @@ let allMusic = [
     src: "music-6"
   },
   {
+    name: "Sia  Unstoppable Lyrics",
+    artist: "Audio Library",
+    img: "music-7",
+    src: "music-7"
+  },
+  {
     name:"Light Switch",
     artist:"Charlie Puth",
     img:"music-9",
