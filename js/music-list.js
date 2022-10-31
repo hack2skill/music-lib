@@ -36,4 +36,10 @@ let allMusic = [
     img: "music-6",
     src: "music-6"
   },
+    {
+    name: "Despacito",
+    artist: "Luis Fonsi",
+    img: "music-6",
+    src: "music-7"
+  },
 ];
